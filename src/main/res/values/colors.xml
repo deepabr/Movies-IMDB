@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab_selected">#fdfdfd</color>
+    <color name="tab_unselected">#070707</color>
+    <color name="imdb_color">#0a9be3</color>
+
+    <color name="light_blue">#bddfeb</color>
+</resources>
